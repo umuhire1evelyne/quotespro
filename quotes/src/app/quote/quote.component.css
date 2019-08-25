@@ -9,8 +9,11 @@
   #quotes{
     padding: 10px;
     box-shadow: 0 0 5px rgb(255, 255, 255);
-    background-image: url(/src/assets/background.jpeg);
+    background-image: url("https://image.shutterstock.com/image-photo/wood-texture-background-planks-260nw-529326181.jpg");
     border-radius: 30px;
+    width: 50%;
+    font-size: 25px;
+    color: white;
   }
   #fontincrease{
     font-size: 20px;
@@ -18,7 +21,7 @@
   #sticky{
     position: sticky;
     top: 0;
-    background-color: gray;
+    background-color: rgb(26, 16, 5);
     text-align: center;
   }
   
