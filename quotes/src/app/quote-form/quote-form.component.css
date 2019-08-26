@@ -1,12 +1,15 @@
 form{
     background-position: relative;
       
-      background-color: rgb(236, 218, 159);
+      background-color: rgb(41, 4, 4);
+      color: black;
       padding: 20px;
       border-radius: 50px;
       box-shadow: 0 0 5px rgb(255, 255, 255);
-      
-  
+      width: 30%;
+      height: 40%;
+      float: right;
+      margin-top: 0;
     }
   
     p{
