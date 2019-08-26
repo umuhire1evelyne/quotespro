@@ -25,10 +25,10 @@ import { Quote } from "../quote";
 export class QuoteComponent implements OnInit {
 
   public quotes: Quote[] = [
-    new Quote(1, "Daisy Arusey", "Humanity is acquiring all the right technology for all the wrong reasons.", "R. Buckminster Fuller", new Date(2019, 25, 8), 0, 0),
-    new Quote(2, "Daisy Arusey", "Technology is a word that describes something that doesn’t work yet.", "Douglas Adams", new Date(2019, 12, 10), 0, 0),
-    new Quote(3, "Daisy Arusey", "One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.", "Elbert Hubbard", new Date(2019, 11, 7), 0, 0),
-    new Quote(4, "Daisy Arusey", "The art challenges the technology, and the technology inspires the art.", "John Lasseter", new Date(2018, 10, 7), 0, 0),
+    new Quote(1, "Evelyn", "Humanity is acquiring all the right technology for all the wrong reasons.", "R. Buckminster Fuller", new Date(2019, 25, 8), 0, 0),
+    new Quote(2, "Evelyn", "Technology is a word that describes something that doesn’t work yet.", "Douglas Adams", new Date(2019, 12, 10), 0, 0),
+    new Quote(3, "Evelyn", "One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.", "Elbert Hubbard", new Date(2019, 11, 7), 0, 0),
+    new Quote(4, "Evelyn", "The art challenges the technology, and the technology inspires the art.", "John Lasseter", new Date(2019, 10, 7), 0, 0),
   ]
 
   addNewQuote(quote) {
