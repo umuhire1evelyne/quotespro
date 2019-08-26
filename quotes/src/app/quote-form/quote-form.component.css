@@ -1,6 +1,6 @@
 form{
-    background-position: relative;
-      
+      position: relative;
+      bottom: 60%;
       background-color: rgb(41, 4, 4);
       color: black;
       padding: 20px;
@@ -9,7 +9,6 @@ form{
       width: 30%;
       height: 40%;
       float: right;
-      margin-top: 0;
     }
   
     p{
